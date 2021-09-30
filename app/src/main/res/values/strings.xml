@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quizzz</string>
+    <string name="True">True</string>
+    <string name="welcome_to_java_quiz">Welcome to Java Quiz</string>
+    <string name="False">False</string>
+    <string name="java_logo">Java logo</string>
+</resources>
